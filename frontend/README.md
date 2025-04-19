@@ -37,4 +37,3 @@ The project follows a **full-stack architecture**:
 - Express.js
 - PostgreSQL (Neon)
 - JWT for Authentication
-- Sequelize or Knex (ORM/query builder)
